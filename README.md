@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.png" alt="Arjun Ahlawat | Cyber-Dragon Mist & Ink Banner" width="100%" />
+  <img src="Gemini_Generated_Image_9zf9zy9zf9zy9zf9.png" alt="Arjun Ahlawat | Cyber-Dragon Mist & Ink Banner" width="100%" />
 </p>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
