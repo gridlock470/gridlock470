@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Arjun Ahlawat | Cyber-Dragon Banner" width="100%" />
+  <img src="19014525-18b1-4388-afba-479cca359383.jpg" alt="Arjun Ahlawat | Cyber-Dragon Banner" width="100%" />
 </p>
 
 ---
